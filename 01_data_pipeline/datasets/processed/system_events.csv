@@ -1,0 +1,59 @@
+host,process_name,pid,message,timestamp
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 00:14:01
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 00:30:21
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.cdscheduler"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.install"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.authd"" sharing output destination ""/var/log/asl"" with ASL Module ""com.apple.asl"". Output parameters from ASL Module ""com.apple.asl"" override any specified in ASL Module ""com.apple.authd"".",2026-01-23 00:30:22
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.authd"" sharing output destination ""/var/log/system.log"" with ASL Module ""com.apple.asl"". Output parameters from ASL Module ""com.apple.asl"" override any specified in ASL Module ""com.apple.authd"".",2026-01-23 00:30:22
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.authd"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.eventmonitor"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.mail"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.performance"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.iokit.power"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.contacts.ContactsAutocomplete"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.mkb"" sharing output destination ""/private/var/log/keybagd.log"" with ASL Module ""com.apple.mkb.internal"". Output parameters from ASL Module ""com.apple.mkb.internal"" override any specified in ASL Module ""com.apple.mkb"".",2026-01-23 00:30:22
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.mkb"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.MessageTracer"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 00:46:31
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 01:03:06
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 01:19:15
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 01:36:35
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 01:53:39
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 02:11:30
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 02:29:41
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 02:48:29
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 03:06:15
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 03:22:16
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 03:38:56
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 03:57:09
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 04:13:10
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 04:30:24
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 04:46:10
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 05:02:08
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 05:19:51
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 05:36:07
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 05:53:41
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 06:10:57
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 06:26:46
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 06:46:30
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 06:57:55
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 07:08:04
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 07:33:21
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 07:48:49
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 08:04:23
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 08:15:24
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 08:28:49
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 08:46:22
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 09:04:20
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 09:18:08
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 09:34:33
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 09:45:14
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 10:02:25
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 10:19:08
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 10:29:09
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 10:44:14
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 10:54:23
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 11:06:46
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 11:24:02
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 11:34:15
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 11:44:47
