@@ -1,0 +1,59 @@
+host,process_name,pid,message,timestamp,hour,day_of_week,is_weekend,off_hours,is_system_process,rare_process,first_seen_time,first_seen,session_id,first_seen_session,count_last_hour
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 00:14:01,0,4,False,1,1,0,2026-01-23 00:14:01,1,0,1,1.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 00:30:21,0,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,2.0
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.cdscheduler"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22,0,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,3.0
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.install"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22,0,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.authd"" sharing output destination ""/var/log/asl"" with ASL Module ""com.apple.asl"". Output parameters from ASL Module ""com.apple.asl"" override any specified in ASL Module ""com.apple.authd"".",2026-01-23 00:30:22,0,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,5.0
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.authd"" sharing output destination ""/var/log/system.log"" with ASL Module ""com.apple.asl"". Output parameters from ASL Module ""com.apple.asl"" override any specified in ASL Module ""com.apple.authd"".",2026-01-23 00:30:22,0,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,6.0
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.authd"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22,0,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,7.0
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.mkb"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22,0,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,8.0
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.eventmonitor"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22,0,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,9.0
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.performance"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22,0,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,10.0
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.iokit.power"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22,0,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,11.0
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.contacts.ContactsAutocomplete"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22,0,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,12.0
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.mkb"" sharing output destination ""/private/var/log/keybagd.log"" with ASL Module ""com.apple.mkb.internal"". Output parameters from ASL Module ""com.apple.mkb.internal"" override any specified in ASL Module ""com.apple.mkb"".",2026-01-23 00:30:22,0,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,13.0
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.mail"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22,0,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,14.0
+Peters-Air,syslogd,388,"Configuration Notice: ASL Module ""com.apple.MessageTracer"" claims selected messages. Those messages may not appear in standard system log files or in the ASL database.",2026-01-23 00:30:22,0,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,15.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 00:46:31,0,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,16.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 01:03:06,1,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,17.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 01:19:15,1,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,17.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 01:36:35,1,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 01:53:39,1,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 02:11:30,2,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 02:29:41,2,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 02:48:29,2,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 03:06:15,3,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 03:22:16,3,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 03:38:56,3,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 03:57:09,3,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 04:13:10,4,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 04:30:24,4,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 04:46:10,4,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 05:02:08,5,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 05:19:51,5,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 05:36:07,5,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 05:53:41,5,4,False,1,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 06:10:57,6,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 06:26:46,6,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 06:46:30,6,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 06:57:55,6,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 07:08:04,7,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,5.0
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 07:33:21,7,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 07:48:49,7,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 08:04:23,8,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 08:15:24,8,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 08:28:49,8,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,5.0
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 08:46:22,8,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,5.0
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 09:04:20,9,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,5.0
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 09:18:08,9,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 09:34:33,9,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 09:45:14,9,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,5.0
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 10:02:25,10,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,5.0
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 10:19:08,10,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,4.0
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 10:29:09,10,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,5.0
+Mac,syslogd,388,ASL Sender Statistics,2026-01-23 10:44:14,10,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,5.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 10:54:23,10,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,5.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 11:06:46,11,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,5.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 11:24:02,11,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,5.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 11:34:15,11,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,5.0
+Peters-Air,syslogd,388,ASL Sender Statistics,2026-01-23 11:44:47,11,4,False,0,1,0,2026-01-23 00:14:01,0,0,0,5.0
